@@ -1,4 +1,4 @@
-package com.baekjoon.test.problem2588;
+package com.baekjoon.test.level1.problem2588;
 
 import java.util.Scanner;
 

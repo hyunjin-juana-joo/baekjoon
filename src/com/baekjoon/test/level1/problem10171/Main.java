@@ -1,4 +1,4 @@
-package com.baekjoon.test.problem10171;
+package com.baekjoon.test.level1.problem10171;
 
 public class Main {
     /**
